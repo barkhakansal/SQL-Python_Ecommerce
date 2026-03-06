@@ -69,10 +69,6 @@ Revenue by Product Category (Horizontal Bar Chart)
 
 Customer Distribution by State (Choropleth/Map)
 
-Average Products per Order by City (Bar Chart)
-
-Revenue Percentage by Category (Pie Chart)
-
 
 ## 💡 Recommendations
 
